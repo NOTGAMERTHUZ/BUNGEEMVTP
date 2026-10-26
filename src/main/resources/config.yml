@@ -1,0 +1,5 @@
+teleport-delay-ticks: 20
+destinations:
+  survival: Survival
+  pvp: Pvp
+  lifesteal: lifesteal
