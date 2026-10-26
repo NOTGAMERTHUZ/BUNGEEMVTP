@@ -1,0 +1,4 @@
+name: MHop
+main: dev.mhop.HopProxy
+version: "1.0"
+author: GAMERTHUZ
