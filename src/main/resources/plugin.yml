@@ -1,0 +1,12 @@
+name: MHop
+main: dev.mhop.HopBackend
+version: 1.0
+api-version: '1.20'
+commands:
+  hop:
+    description: Send a player to a destination on main
+    usage: /hop <player> <destination>
+    permission: mhop.use
+permissions:
+  mhop.use:
+    default: op
